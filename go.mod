@@ -1,6 +1,6 @@
 module github.com/x-way/iptables-tracer
 
-go 1.19
+go 1.23.0
 
 require (
 	github.com/florianl/go-conntrack v0.4.0
@@ -14,7 +14,7 @@ require (
 require (
 	github.com/josharian/native v1.0.0 // indirect
 	github.com/mdlayher/socket v0.4.0 // indirect
-	golang.org/x/net v0.33.0 // indirect
+	golang.org/x/net v0.38.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/sys v0.31.0 // indirect
 )
